@@ -1,28 +1,31 @@
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
-### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
-### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame)
+### 🌟 [https://mynovel.life/www.mygalgame.com/](https://mynovel.life/www.mygalgame.com/)
+### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame/)
 
-* [爬虫](#spider)
-* [所有游戏列表Game List](#game-list)
+[![](https://data.jsdelivr.com/v1/package/gh/Beats0/www.mygalgame.com/badge)](https://www.jsdelivr.com/package/gh/Beats0/www.mygalgame.com)
+
+* [Game List](#game-list)
 * [Tree](#tree)
 * [Update Log](#update-log)
-* [相关配置及部分GitHub开源项目](#相关配置及部分github开源项目)
+* [Open-source](#open-source)
 
-#### Spider
-[for node](https://github.com/Beats0/scripter/blob/master/mygalgame.com_spider/mygal_spider.js)
-
-[for python](https://github.com/Beats0/scripter/blob/master/mygalgame.com_spider/mygal_spider.py)
 
 #### Game List
 
-[所有游戏列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
+~~注意: 链接改为了动态，需要等待几秒拉取数据才能获取正确的链接, 和谐较多的一般会一个月后全部自动重新更新~~
 
-[背景图yande.re_db](https://beats0.github.io/scripter/yande.re_db/)
+网盘被永久禁封了，所有资源已失效，不再提供下载地址，当前仅作展示用，长期不维护中...
+
+[列表Game List](https://mynovel.life/www.mygalgame.com/Game_list/mygalgameList.html)
+
+[背景图](https://beats0.github.io/scripter/yande.re_db/)
 
 --------------------------------------------------------------
 
 #### Tree
-```
+<details>
+<summary>展开查看</summary>
+<pre><code>.
 wwww.galgame.com
 ├─Audio
 ├─category
@@ -366,7 +369,12 @@ wwww.galgame.com
 │    ├─N11
 │    ├─N12
 │    ├─N13
-│    └─N14
+│    ├─N14
+│    ├─N15
+│    ├─N16
+│    ├─N17
+│    ├─N18
+│    └─N19
 ├─tag
 │    ├─alcot社
 │    ├─alcot蜂巢社
@@ -482,8 +490,8 @@ wwww.galgame.com
       └─uploads
           └─2015
               └─12
-```
-
+</code></pre>
+</details>
 
 --------------------------------------------------------------
 
@@ -493,21 +501,16 @@ wwww.galgame.com
 
 --------------------------------------------------------------
 
-#### 相关配置及部分GitHub开源项目
+#### Open source
 
 - mygalgame(theme):[GitHub:mygalgame](https://github.com/Beats0/mygalgame)
 - Bootstrap(css,js):[GitHub:Bootstrap](https://github.com/twbs/bootstrap)
-- [busuanzi analyze](http://busuanzi.ibruce.info/)
 - AOS.js(css,js):[GitHub:AOS.js](https://github.com/michalsnik/aos)
 - hint(css):[GitHub:hint.css](https://github.com/chinchang/hint.css)
 - font-awesome：(css)[GitHub:font-awesome](https://github.com/FortAwesome/Font-Awesome)
 - WORDPRESS Theme：[wordpress.org](https://wordpress.org/themes/)
-- WORDPRESS SVN and PHP：(PHP)[GitHub:WordPress](https://github.com/WordPress/WordPress)
 - WP Ajax Edit Comments:[https://wordpress.org/plugins/wp-ajax-edit-comments/](https://wordpress.org/plugins/wp-ajax-edit-comments/)
 - Highslide.js(js):[http://highslide.com](http://highslide.com) and [https://www.highcharts.com/demo](https://www.highcharts.com/demo)
 - jquery:[GitHub:jquery](https://github.com/jquery/jquery)
 - jquery.lazyload:[GitHub:jquery.lazyload](https://github.com/tuupola/jquery_lazyload)
 - jQuery-Colorbox:[GitHub:jQuery-Colorbox](https://github.com/afranken/jQuery-Colorbox)
-- jquery-migrate:[GitHub:jquery-migrate](https://github.com/jquery/jquery-migrate)
-- jquery-cookie:[GitHub:jquery-cookie](https://github.com/carhartl/jquery-cookie)
-- jQuery Validate:[GitHub:jQuery Validate](https://github.com/DiegoLopesLima/validate)
